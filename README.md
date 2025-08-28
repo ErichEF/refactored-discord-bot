@@ -12,3 +12,7 @@ Requesting image creation is also possible, and will be updated to GPT-Image-1 i
 There are also other non-AI features such as requesting an image of a staring cat for judging other users, or asking for basic public server info.
 
 This is was my first major project in JavaScript, and I used a fair bit of resources to understand the asynchronous programing that I then applied here. I'm sure in hindsight there's a lot I could've done better, but for a first major attempt I'm quite happy with this project. Perhaps a major revamp is in the works in the future.
+
+References:
+OpenAI Documentation
+Youtube videos demonstrating said documentation
