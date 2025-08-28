@@ -115,7 +115,7 @@ client.on('interactionCreate', async (interaction) => {
     }
   });
   
-// openai integration done with help of https://www.youtube.com/watch?v=EUlnKW6Yy94
+// openai integration done with help of https://www.youtube.com/watch?v=EUlnKW6Yy94 and OpenAI documentation
 
 const IGNORE_PREFIX = "!";
 const AI_CHANNELS = ['ai-channel-number'];
