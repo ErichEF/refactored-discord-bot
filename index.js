@@ -50,7 +50,7 @@ const GITROLES = {
   SHOWS: '4', // Shows/Movies
   OTHERGAMES: '5', // Non FF party/coop games
   FFXIV: '6',
-  FFXIVBUNGLE: '7', // bungle ffxiv
+  FFXIV2: '7', // bungle ffxiv
   LETHALCOMPANY: '8', // lethal company
   PROJECTZOMBOID: '9', // project zomboid
   BATTLEBIT: '10', // battlebit
