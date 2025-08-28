@@ -6,7 +6,8 @@ One of the bot's most useful features for large servers is allowing users to aut
 <img width="534" height="254" alt="image" src="https://github.com/user-attachments/assets/e39a23f2-3350-4b42-9032-23f50fe2b21f" />
 
 Below is a basic inteaction between a user and the bot. The bot in this case is prompted to act like a cat who likes cat puns.
-<img width="1174" height="110" alt="image" src="https://github.com/user-attachments/assets/7aabb9ae-a5fe-4ddc-a245-cbae3bcd89fc" />
+<img width="1163" height="100" alt="image" src="https://github.com/user-attachments/assets/47236473-0911-4b32-99e4-a56db13860f2" />
+
 Requesting image creation is also possible, and will be updated to GPT-Image-1 in the near future.
 
 There are also other non-AI features such as requesting an image of a staring cat for judging other users, or asking for basic public server info.
